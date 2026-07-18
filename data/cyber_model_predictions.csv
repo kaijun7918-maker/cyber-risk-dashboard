@@ -1,0 +1,596 @@
+country,year,attack_type,target_industry,financial_loss_million,affected_users,resolution_time_hours,predicted_resolution_time,residual
+Brazil,2015,SQL Injection,Healthcare,3.73,445422,70.0,36.5473,33.4527
+Russia,2015,Phishing,Banking,4.59,720643,19.0,38.4134,-19.4134
+Japan,2015,Malware,Healthcare,5.79,821803,40.0,36.3361,3.6639
+Japan,2015,Malware,Retail,9.75,559143,69.0,38.9075,30.0925
+UK,2015,DDoS,Government,11.68,890414,28.0,37.2243,-9.2243
+Japan,2015,DDoS,Retail,11.69,680720,2.0,36.8521,-34.8521
+Australia,2015,DDoS,Government,11.89,731839,14.0,37.2704,-23.2704
+Russia,2015,Man-in-the-Middle,Government,13.26,616547,22.0,35.1397,-13.1397
+Australia,2015,DDoS,Government,13.96,479025,54.0,39.0082,14.9918
+China,2015,Phishing,Retail,14.72,914743,69.0,39.1147,29.8853
+Australia,2015,Ransomware,Telecommunications,17.38,75314,6.0,39.1127,-33.1127
+France,2015,Malware,Banking,20.27,987350,4.0,37.0115,-33.0115
+China,2015,Malware,IT,20.63,780527,68.0,36.8945,31.1055
+Russia,2015,DDoS,Healthcare,20.92,807631,56.0,32.6614,23.3386
+UK,2015,Ransomware,Telecommunications,22.58,368441,71.0,35.5144,35.4856
+India,2015,Ransomware,Telecommunications,24.7,825941,54.0,38.2805,15.7195
+USA,2015,SQL Injection,Retail,26.98,763017,24.0,36.0864,-12.0864
+Japan,2015,Malware,Telecommunications,28.8,915532,68.0,35.5912,32.4088
+UK,2015,Ransomware,Banking,32.0,712739,17.0,35.7318,-18.7318
+China,2015,Ransomware,Telecommunications,32.65,313384,51.0,37.7091,13.2909
+USA,2015,Ransomware,Banking,33.75,58037,13.0,36.955,-23.955
+India,2015,Malware,Banking,34.51,970056,30.0,38.2899,-8.2899
+Brazil,2015,Malware,Education,37.54,49473,51.0,38.948,12.052
+USA,2015,SQL Injection,Banking,42.77,117454,19.0,39.612,-20.612
+India,2015,SQL Injection,Government,46.2,245370,57.0,37.3697,19.6303
+Brazil,2015,SQL Injection,IT,47.2,16957,49.0,37.137,11.863
+Germany,2015,Man-in-the-Middle,IT,54.54,775866,69.0,36.1017,32.8983
+Australia,2015,SQL Injection,Retail,55.78,852650,50.0,36.9262,13.0738
+Germany,2015,Malware,Banking,56.13,526658,38.0,38.1665,-0.1665
+China,2015,Ransomware,IT,60.43,962452,34.0,40.1271,-6.1271
+Australia,2015,Malware,Healthcare,62.34,796100,20.0,35.0733,-15.0733
+Russia,2015,Malware,Healthcare,63.09,80855,53.0,36.04,16.96
+India,2015,Malware,Education,64.29,924049,5.0,37.4659,-32.4659
+China,2015,Man-in-the-Middle,Banking,66.47,623301,40.0,39.9358,0.0642
+Brazil,2015,DDoS,Retail,67.52,224815,32.0,37.316,-5.316
+China,2015,Malware,Retail,73.45,701505,36.0,39.3102,-3.3102
+Brazil,2015,SQL Injection,Retail,74.74,562552,37.0,36.7971,0.2029
+India,2015,Phishing,Healthcare,76.08,471550,5.0,37.181,-32.181
+Japan,2015,Malware,Healthcare,77.01,182338,72.0,34.4367,37.5633
+France,2015,Man-in-the-Middle,Healthcare,79.58,856278,71.0,35.5915,35.4085
+Germany,2015,Man-in-the-Middle,Education,81.5,697275,59.0,36.4593,22.5407
+India,2015,Ransomware,Banking,81.81,41635,37.0,38.6611,-1.6611
+Australia,2015,DDoS,Government,82.7,904805,61.0,37.8582,23.1418
+France,2015,Phishing,Banking,83.27,288526,66.0,37.6952,28.3048
+France,2015,Ransomware,IT,84.02,824619,21.0,36.0068,-15.0068
+France,2015,Phishing,Retail,84.86,190100,69.0,36.5658,32.4342
+UK,2015,DDoS,Telecommunications,85.23,193852,54.0,37.4764,16.5236
+France,2015,DDoS,Banking,85.36,50427,5.0,35.1567,-30.1567
+Brazil,2015,SQL Injection,IT,86.67,694491,65.0,36.0453,28.9547
+France,2015,SQL Injection,IT,87.78,6456,69.0,38.1739,30.8261
+Australia,2015,Phishing,Telecommunications,89.41,488342,23.0,39.3217,-16.3217
+Brazil,2015,Ransomware,Retail,91.03,879260,16.0,38.203,-22.203
+Germany,2015,DDoS,IT,91.79,846200,26.0,34.9898,-8.9898
+France,2015,Phishing,Banking,95.72,551812,69.0,35.4397,33.5603
+Russia,2015,DDoS,Telecommunications,96.39,238356,3.0,35.2455,-32.2455
+Germany,2015,Ransomware,Telecommunications,99.83,419344,59.0,35.3597,23.6403
+Australia,2016,Phishing,Telecommunications,2.84,880127,67.0,36.843,30.157
+Russia,2016,Malware,Banking,3.6,661377,66.0,37.7995,28.2005
+India,2016,SQL Injection,Banking,4.31,520308,39.0,37.3514,1.6486
+Brazil,2016,Ransomware,Education,5.51,740421,59.0,38.4551,20.5449
+UK,2016,Phishing,Education,8.42,29671,61.0,38.8772,22.1228
+Brazil,2016,Phishing,Education,9.23,774750,70.0,37.2501,32.7499
+India,2016,Ransomware,Retail,9.53,89719,68.0,36.2993,31.7007
+Japan,2016,DDoS,Healthcare,10.62,625954,71.0,33.3224,37.6776
+Russia,2016,Phishing,Healthcare,11.29,72191,3.0,34.6506,-31.6506
+UK,2016,Phishing,Retail,13.68,144856,13.0,38.4212,-25.4212
+USA,2016,DDoS,Retail,13.83,586557,37.0,35.2915,1.7085
+France,2016,Man-in-the-Middle,Retail,14.86,63760,8.0,38.6695,-30.6695
+USA,2016,SQL Injection,Education,16.5,347293,65.0,36.5856,28.4144
+UK,2016,SQL Injection,Retail,17.98,251689,1.0,37.6292,-36.6292
+France,2016,DDoS,Telecommunications,20.09,689397,68.0,35.4496,32.5504
+USA,2016,Man-in-the-Middle,Retail,23.35,952463,26.0,37.738,-11.738
+France,2016,DDoS,Banking,25.81,132286,66.0,36.9871,29.0129
+France,2016,SQL Injection,Government,29.33,182916,17.0,38.0901,-21.0901
+UK,2016,Phishing,Education,29.49,466333,51.0,36.0495,14.9505
+Germany,2016,Ransomware,Education,29.89,385363,22.0,35.6474,-13.6474
+Germany,2016,SQL Injection,IT,34.35,918452,16.0,35.7808,-19.7808
+Australia,2016,Man-in-the-Middle,Government,35.59,729762,6.0,36.9509,-30.9509
+Russia,2016,Malware,Government,37.07,138915,44.0,37.531,6.469
+Japan,2016,SQL Injection,Telecommunications,37.17,728731,72.0,36.6769,35.3231
+USA,2016,Phishing,Banking,38.58,447486,7.0,34.4738,-27.4738
+China,2016,SQL Injection,Healthcare,38.81,920768,27.0,37.6393,-10.6393
+Brazil,2016,Man-in-the-Middle,Banking,43.45,489853,28.0,34.9515,-6.9515
+Japan,2016,Man-in-the-Middle,Healthcare,44.69,567209,1.0,35.7921,-34.7921
+Germany,2016,Phishing,Telecommunications,46.28,992092,3.0,38.0657,-35.0657
+Germany,2016,SQL Injection,Telecommunications,48.77,169455,23.0,38.5335,-15.5335
+Russia,2016,SQL Injection,Government,52.59,287446,56.0,39.7259,16.2741
+Japan,2016,Man-in-the-Middle,IT,57.14,590262,15.0,38.0817,-23.0817
+Australia,2016,DDoS,Education,61.23,228033,43.0,38.4771,4.5229
+UK,2016,Man-in-the-Middle,Government,62.9,119785,14.0,41.0579,-27.0579
+USA,2016,Phishing,Government,63.35,223827,21.0,37.571,-16.571
+USA,2016,Phishing,IT,68.23,877998,23.0,36.297,-13.297
+Australia,2016,Malware,Healthcare,80.22,124155,40.0,37.8362,2.1638
+China,2016,DDoS,Telecommunications,83.02,281862,4.0,38.1973,-34.1973
+Australia,2016,Man-in-the-Middle,IT,84.46,94162,15.0,34.9279,-19.9279
+USA,2016,Phishing,Education,86.3,702702,14.0,34.3764,-20.3764
+Australia,2016,Man-in-the-Middle,Healthcare,90.85,746369,30.0,36.433,-6.433
+Russia,2016,DDoS,Healthcare,90.94,326955,21.0,35.1252,-14.1252
+Australia,2016,Phishing,Banking,92.79,285311,55.0,35.4577,19.5423
+Germany,2016,Malware,Healthcare,94.12,21382,21.0,34.7481,-13.7481
+Germany,2016,Man-in-the-Middle,Government,97.79,984519,57.0,34.4238,22.5762
+China,2016,DDoS,Telecommunications,97.83,699791,2.0,35.4038,-33.4038
+Germany,2017,Malware,Healthcare,1.68,859708,10.0,34.4574,-24.4574
+Russia,2017,Phishing,Telecommunications,2.22,620350,45.0,36.654,8.346
+France,2017,DDoS,Healthcare,5.07,65117,3.0,36.6329,-33.6329
+Japan,2017,Phishing,IT,5.14,319868,52.0,38.6087,13.3913
+India,2017,Malware,Telecommunications,7.44,552358,42.0,34.1681,7.8319
+Japan,2017,DDoS,Education,7.84,165722,23.0,37.2038,-14.2038
+USA,2017,Phishing,IT,7.95,362478,67.0,34.3857,32.6143
+UK,2017,DDoS,IT,9.01,617543,43.0,37.5703,5.4297
+Brazil,2017,Malware,IT,9.59,912731,4.0,36.4603,-32.4603
+Japan,2017,Man-in-the-Middle,Healthcare,11.3,64472,43.0,35.4436,7.5564
+Germany,2017,SQL Injection,Healthcare,12.56,135042,13.0,34.3429,-21.3429
+Russia,2017,Man-in-the-Middle,Healthcare,13.04,850158,67.0,36.4382,30.5618
+UK,2017,Man-in-the-Middle,Education,13.06,799627,36.0,37.5982,-1.5982
+Japan,2017,Man-in-the-Middle,Healthcare,16.71,393738,69.0,34.7918,34.2082
+China,2017,DDoS,IT,17.49,394109,37.0,36.5193,0.4807
+Brazil,2017,Man-in-the-Middle,Retail,17.99,506551,53.0,36.7256,16.2744
+China,2017,DDoS,Retail,19.36,4814,42.0,36.0711,5.9289
+France,2017,Ransomware,Education,19.84,832471,54.0,36.1682,17.8318
+India,2017,SQL Injection,Government,20.21,421023,72.0,36.8638,35.1362
+Russia,2017,Malware,IT,20.85,484009,41.0,33.6206,7.3794
+Japan,2017,Man-in-the-Middle,Telecommunications,21.8,610106,39.0,35.1378,3.8622
+India,2017,Malware,IT,22.04,210495,18.0,35.1407,-17.1407
+UK,2017,Malware,Healthcare,24.06,612319,47.0,34.683,12.317
+China,2017,Ransomware,Education,25.73,639190,33.0,36.4198,-3.4198
+USA,2017,Man-in-the-Middle,IT,30.4,568560,49.0,34.8494,14.1506
+Australia,2017,Man-in-the-Middle,IT,30.51,428352,41.0,37.4517,3.5483
+Australia,2017,Malware,IT,33.34,673439,13.0,34.3516,-21.3516
+France,2017,Man-in-the-Middle,Healthcare,34.43,927694,43.0,34.9132,8.0868
+Brazil,2017,DDoS,Telecommunications,34.79,724790,64.0,36.8521,27.1479
+Japan,2017,SQL Injection,Education,36.37,161579,15.0,36.305,-21.305
+USA,2017,Ransomware,Banking,42.19,157313,47.0,37.6991,9.3009
+UK,2017,Man-in-the-Middle,Telecommunications,43.82,213979,10.0,39.4698,-29.4698
+India,2017,DDoS,Banking,45.98,538245,18.0,35.0073,-17.0073
+Australia,2017,Man-in-the-Middle,Retail,47.97,36780,64.0,37.6196,26.3804
+USA,2017,Phishing,IT,48.96,480386,18.0,34.9944,-16.9944
+Japan,2017,Phishing,IT,49.12,845169,1.0,36.359,-35.359
+Japan,2017,Ransomware,Banking,50.75,53111,15.0,36.5152,-21.5152
+UK,2017,Phishing,Banking,52.31,259706,2.0,37.3003,-35.3003
+UK,2017,SQL Injection,IT,53.39,576110,37.0,37.1498,-0.1498
+UK,2017,DDoS,Healthcare,54.83,966668,15.0,34.1468,-19.1468
+USA,2017,Phishing,Government,55.34,785099,29.0,35.9653,-6.9653
+Germany,2017,Man-in-the-Middle,Government,56.15,487668,72.0,35.8822,36.1178
+India,2017,Malware,Government,61.02,650042,48.0,37.8604,10.1396
+Australia,2017,DDoS,Banking,62.81,810106,66.0,35.8263,30.1737
+France,2017,DDoS,Retail,67.36,856228,47.0,35.7601,11.2399
+Brazil,2017,Man-in-the-Middle,Education,67.55,287646,68.0,39.7877,28.2123
+Germany,2017,Malware,Government,67.79,239402,17.0,37.3399,-20.3399
+Brazil,2017,Phishing,Healthcare,68.99,526227,62.0,36.6756,25.3244
+India,2017,Man-in-the-Middle,Government,69.69,713419,70.0,36.7044,33.2956
+USA,2017,DDoS,Retail,70.37,513625,37.0,37.899,-0.899
+Germany,2017,DDoS,Healthcare,72.05,263506,49.0,35.2872,13.7128
+Brazil,2017,Malware,Telecommunications,73.71,377769,38.0,38.5619,-0.5619
+Japan,2017,Malware,Retail,74.01,750473,41.0,36.6649,4.3351
+India,2017,DDoS,Government,75.52,352250,39.0,39.2049,-0.2049
+France,2017,Man-in-the-Middle,Education,76.35,517640,4.0,39.4082,-35.4082
+India,2017,SQL Injection,IT,78.94,858565,29.0,36.6273,-7.6273
+Australia,2017,Man-in-the-Middle,Telecommunications,79.72,799971,63.0,35.3886,27.6114
+USA,2017,Malware,Telecommunications,81.19,362085,5.0,38.0446,-33.0446
+Russia,2017,Man-in-the-Middle,Education,83.43,313631,16.0,38.2032,-22.2032
+India,2017,DDoS,Education,83.49,79933,23.0,34.6047,-11.6047
+Germany,2017,SQL Injection,Retail,88.18,3200,43.0,36.6836,6.3164
+Russia,2017,Phishing,IT,89.22,791350,32.0,36.5783,-4.5783
+Japan,2017,Phishing,Telecommunications,89.85,44385,18.0,35.3279,-17.3279
+USA,2017,Ransomware,Government,89.9,828963,2.0,32.485,-30.485
+Japan,2017,Phishing,Government,89.97,141115,9.0,37.092,-28.092
+Japan,2017,DDoS,Healthcare,90.38,316136,22.0,36.3686,-14.3686
+Germany,2017,Malware,Telecommunications,94.87,324790,42.0,36.4634,5.5366
+France,2017,Malware,Telecommunications,96.63,389525,32.0,36.1574,-4.1574
+Germany,2017,Malware,Banking,97.68,906914,15.0,34.1766,-19.1766
+India,2017,Ransomware,Education,98.11,677198,28.0,37.8129,-9.8129
+UK,2017,SQL Injection,Government,98.75,894933,59.0,33.5779,25.4221
+Russia,2018,SQL Injection,Education,1.25,351063,56.0,35.6599,20.3401
+Brazil,2018,Malware,Banking,3.1,458185,31.0,38.0893,-7.0893
+Russia,2018,DDoS,Telecommunications,4.08,502842,15.0,37.0656,-22.0656
+Russia,2018,Man-in-the-Middle,Telecommunications,4.92,783480,55.0,36.305,18.695
+India,2018,Phishing,Education,5.27,982450,32.0,36.2374,-4.2374
+Brazil,2018,Malware,Education,6.3,661644,29.0,36.9588,-7.9588
+UK,2018,Ransomware,Government,6.6,152302,26.0,36.2159,-10.2159
+Russia,2018,Malware,Telecommunications,8.11,737958,35.0,37.51,-2.51
+China,2018,Man-in-the-Middle,Banking,9.77,881294,3.0,38.7902,-35.7902
+USA,2018,DDoS,Banking,10.01,327826,35.0,34.6605,0.3395
+Australia,2018,DDoS,Healthcare,10.77,910081,28.0,34.0464,-6.0464
+Japan,2018,SQL Injection,Education,11.28,433618,59.0,38.6025,20.3975
+India,2018,Ransomware,Healthcare,11.57,144533,67.0,36.0149,30.9851
+USA,2018,Malware,Healthcare,14.28,755771,44.0,33.6382,10.3618
+India,2018,SQL Injection,Telecommunications,15.96,444408,64.0,35.3187,28.6813
+UK,2018,DDoS,IT,17.99,60917,1.0,38.2935,-37.2935
+India,2018,Malware,Banking,20.76,68718,47.0,37.3275,9.6725
+India,2018,Ransomware,Retail,23.79,486810,11.0,37.4907,-26.4907
+India,2018,Ransomware,Retail,26.01,732636,3.0,36.5631,-33.5631
+USA,2018,Phishing,Banking,29.35,724633,26.0,33.3611,-7.3611
+Germany,2018,Malware,IT,30.2,667023,26.0,37.1599,-11.1599
+France,2018,Phishing,Government,30.68,338619,68.0,37.4258,30.5742
+India,2018,Malware,Healthcare,30.83,481452,57.0,32.8422,24.1578
+Japan,2018,Phishing,Government,32.93,774050,40.0,35.0846,4.9154
+Brazil,2018,Malware,Education,33.12,724513,46.0,35.1414,10.8586
+Japan,2018,Phishing,Education,34.06,344674,19.0,35.1513,-16.1513
+India,2018,Phishing,Government,41.1,25094,42.0,34.6946,7.3054
+USA,2018,Phishing,Telecommunications,42.46,93999,65.0,36.0009,28.9991
+China,2018,Phishing,Healthcare,42.93,596628,60.0,37.0416,22.9584
+India,2018,Phishing,Education,43.54,76479,4.0,36.7126,-32.7126
+China,2018,Ransomware,IT,43.73,311165,34.0,37.095,-3.095
+Japan,2018,Ransomware,Government,44.98,951249,25.0,36.4502,-11.4502
+Germany,2018,SQL Injection,Retail,46.34,575379,35.0,38.0405,-3.0405
+India,2018,SQL Injection,Healthcare,47.15,98266,18.0,35.0992,-17.0992
+Brazil,2018,DDoS,Healthcare,47.47,784099,30.0,34.774,-4.774
+Germany,2018,Man-in-the-Middle,IT,48.96,323027,49.0,36.1055,12.8945
+Australia,2018,SQL Injection,Retail,51.46,287089,8.0,35.3315,-27.3315
+China,2018,SQL Injection,Healthcare,52.01,527443,24.0,39.8486,-15.8486
+Brazil,2018,SQL Injection,Education,52.7,861075,7.0,35.8435,-28.8435
+France,2018,SQL Injection,Retail,53.72,795831,61.0,36.9595,24.0405
+USA,2018,Ransomware,Retail,54.05,535110,2.0,34.4216,-32.4216
+USA,2018,Phishing,Banking,55.9,618616,51.0,36.7902,14.2098
+Brazil,2018,Phishing,Education,57.59,257681,40.0,37.2381,2.7619
+China,2018,Ransomware,Telecommunications,58.28,300898,18.0,39.1246,-21.1246
+Australia,2018,DDoS,Banking,64.29,113775,14.0,37.1736,-23.1736
+France,2018,DDoS,Government,66.4,613192,50.0,37.9047,12.0953
+India,2018,Malware,Healthcare,66.96,294133,20.0,35.8044,-15.8044
+Germany,2018,DDoS,Telecommunications,70.0,702285,46.0,35.0292,10.9708
+Australia,2018,SQL Injection,Banking,71.01,840106,44.0,36.4412,7.5588
+Japan,2018,DDoS,IT,75.34,972713,71.0,37.4286,33.5714
+Brazil,2018,Man-in-the-Middle,Retail,76.39,984,56.0,37.9795,18.0205
+Japan,2018,Man-in-the-Middle,Government,78.16,512258,32.0,36.581,-4.581
+India,2018,SQL Injection,Government,80.0,147384,54.0,38.969,15.031
+UK,2018,Man-in-the-Middle,Education,81.01,416149,56.0,38.9907,17.0093
+Japan,2018,Man-in-the-Middle,Telecommunications,81.61,255844,8.0,36.7202,-28.7202
+Australia,2018,Phishing,Education,82.18,943662,47.0,35.5172,11.4828
+Japan,2018,SQL Injection,Healthcare,85.33,786644,41.0,38.1644,2.8356
+Japan,2018,DDoS,Healthcare,88.04,675172,43.0,35.9756,7.0244
+Germany,2018,Phishing,Banking,88.73,436597,33.0,36.6146,-3.6146
+Australia,2018,DDoS,Healthcare,90.4,536357,55.0,37.1204,17.8796
+India,2018,Phishing,Banking,96.59,206552,13.0,35.3451,-22.3451
+UK,2018,Ransomware,Telecommunications,99.41,355256,51.0,36.6221,14.3779
+USA,2019,Malware,Education,1.05,93580,21.0,37.2431,-16.2431
+China,2019,Phishing,IT,5.05,65176,49.0,36.996,12.004
+Russia,2019,Man-in-the-Middle,Education,6.79,386691,20.0,35.6969,-15.6969
+Brazil,2019,Ransomware,Banking,10.1,47737,69.0,38.9211,30.0789
+India,2019,Ransomware,Government,10.37,912202,15.0,37.8808,-22.8808
+Russia,2019,SQL Injection,Telecommunications,10.88,299403,23.0,37.2003,-14.2003
+Russia,2019,Ransomware,Education,11.06,490910,58.0,35.7413,22.2587
+USA,2019,DDoS,Telecommunications,12.13,426349,44.0,35.1355,8.8645
+UK,2019,Malware,Telecommunications,14.01,578443,28.0,36.1556,-8.1556
+Brazil,2019,Man-in-the-Middle,Banking,14.64,880671,66.0,38.5614,27.4386
+Germany,2019,DDoS,IT,14.77,491791,66.0,36.9514,29.0486
+USA,2019,Man-in-the-Middle,Telecommunications,17.21,896828,33.0,36.5176,-3.5176
+Russia,2019,Phishing,Healthcare,17.6,839921,5.0,34.1894,-29.1894
+China,2019,SQL Injection,Retail,26.97,19575,1.0,39.1512,-38.1512
+France,2019,Phishing,Telecommunications,28.88,96640,60.0,36.3019,23.6981
+China,2019,DDoS,Banking,33.88,761910,27.0,34.7339,-7.7339
+UK,2019,Man-in-the-Middle,IT,35.37,384185,71.0,35.0481,35.9519
+UK,2019,Man-in-the-Middle,Retail,39.77,757694,69.0,35.0763,33.9237
+Germany,2019,DDoS,Telecommunications,52.17,481252,48.0,37.3909,10.6091
+Russia,2019,Man-in-the-Middle,Healthcare,53.82,521877,66.0,36.3194,29.6806
+Brazil,2019,DDoS,Government,54.7,615305,6.0,37.6,-31.6
+France,2019,Phishing,IT,55.31,526220,2.0,35.265,-33.265
+Germany,2019,Ransomware,Government,58.6,76066,8.0,38.1154,-30.1154
+Brazil,2019,DDoS,Telecommunications,59.86,899413,11.0,35.5054,-24.5054
+China,2019,Malware,Telecommunications,62.67,520232,53.0,35.2024,17.7976
+Germany,2019,Man-in-the-Middle,Government,64.8,276197,2.0,36.4356,-34.4356
+USA,2019,Ransomware,Telecommunications,65.7,51619,3.0,36.3074,-33.3074
+France,2019,DDoS,Education,66.65,47104,5.0,37.5163,-32.5163
+India,2019,SQL Injection,Banking,68.44,186842,40.0,36.4397,3.5603
+Russia,2019,DDoS,IT,71.22,705326,19.0,36.415,-17.415
+India,2019,Phishing,Telecommunications,75.23,141627,64.0,37.4725,26.5275
+Brazil,2019,Man-in-the-Middle,Government,76.39,311908,68.0,36.3218,31.6782
+USA,2019,SQL Injection,Education,78.12,36804,30.0,37.779,-7.779
+Japan,2019,DDoS,Retail,78.78,214152,7.0,36.2231,-29.2231
+UK,2019,SQL Injection,IT,78.84,464960,24.0,37.0425,-13.0425
+France,2019,Phishing,Education,81.47,597542,11.0,37.0484,-26.0484
+UK,2019,DDoS,Healthcare,81.91,127817,66.0,36.3838,29.6162
+USA,2019,Malware,Government,83.84,506149,35.0,36.8608,-1.8608
+Brazil,2019,Ransomware,Telecommunications,87.41,919425,45.0,37.9753,7.0247
+Australia,2019,Man-in-the-Middle,IT,87.89,551100,9.0,36.2769,-27.2769
+Brazil,2019,Ransomware,Banking,88.63,701522,10.0,36.7188,-26.7188
+USA,2019,Ransomware,Healthcare,89.81,46960,16.0,35.1361,-19.1361
+UK,2019,Phishing,Retail,90.13,232359,17.0,36.2945,-19.2945
+UK,2019,Phishing,Telecommunications,90.67,902952,8.0,35.5962,-27.5962
+Russia,2019,SQL Injection,Healthcare,92.69,979308,10.0,34.4627,-24.4627
+Australia,2019,Malware,Telecommunications,93.71,217863,31.0,35.737,-4.737
+Russia,2019,Man-in-the-Middle,Telecommunications,95.66,259993,58.0,37.5453,20.4547
+Germany,2019,Malware,Healthcare,98.45,32423,45.0,33.4701,11.5299
+UK,2020,Phishing,Healthcare,3.02,510974,16.0,35.6659,-19.6659
+Brazil,2020,DDoS,Telecommunications,4.52,52302,58.0,37.8265,20.1735
+China,2020,Phishing,Education,6.35,80748,8.0,37.9111,-29.9111
+Russia,2020,Man-in-the-Middle,Telecommunications,10.12,405253,52.0,37.2332,14.7668
+China,2020,SQL Injection,Healthcare,11.55,388591,68.0,35.8652,32.1348
+China,2020,DDoS,Banking,11.72,81518,47.0,37.349,9.651
+Germany,2020,Ransomware,Telecommunications,15.14,970038,47.0,40.0395,6.9605
+France,2020,Man-in-the-Middle,Healthcare,17.49,693907,54.0,35.2943,18.7057
+Brazil,2020,Phishing,Healthcare,18.79,267178,56.0,34.2112,21.7888
+India,2020,Malware,Education,20.14,287352,69.0,35.0096,33.9904
+Brazil,2020,Phishing,Banking,21.65,434936,24.0,35.6074,-11.6074
+Japan,2020,Ransomware,Government,21.92,74407,48.0,38.53,9.47
+Brazil,2020,DDoS,Education,26.57,384988,19.0,36.5867,-17.5867
+USA,2020,Malware,Telecommunications,27.16,858207,42.0,35.0438,6.9562
+Germany,2020,Man-in-the-Middle,Healthcare,28.81,691190,27.0,35.5192,-8.5192
+China,2020,Malware,Healthcare,30.86,240532,64.0,34.8787,29.1213
+Germany,2020,DDoS,Government,32.71,846169,59.0,36.2041,22.7959
+Brazil,2020,Man-in-the-Middle,Government,32.72,220978,47.0,38.1887,8.8113
+UK,2020,Ransomware,Education,35.16,100749,62.0,37.8359,24.1641
+USA,2020,DDoS,Healthcare,38.14,846602,31.0,31.8995,-0.8995
+UK,2020,SQL Injection,Banking,40.31,760892,22.0,36.797,-14.797
+Germany,2020,Phishing,Government,40.62,318648,1.0,36.447,-35.447
+USA,2020,SQL Injection,Government,40.95,803757,33.0,35.119,-2.119
+India,2020,SQL Injection,Government,42.81,432917,53.0,37.43,15.57
+Germany,2020,SQL Injection,Education,43.96,597987,50.0,34.5746,15.4254
+France,2020,Malware,Banking,50.19,760230,56.0,36.3781,19.6219
+Brazil,2020,SQL Injection,Education,50.41,350295,5.0,36.5542,-31.5542
+Brazil,2020,Phishing,Retail,50.99,826159,3.0,37.2269,-34.2269
+France,2020,DDoS,IT,52.09,362499,4.0,35.8196,-31.8196
+China,2020,DDoS,Education,52.36,499615,19.0,39.1464,-20.1464
+Brazil,2020,DDoS,Healthcare,53.42,545588,54.0,38.0608,15.9392
+Australia,2020,Man-in-the-Middle,Healthcare,56.14,401178,43.0,38.2539,4.7461
+India,2020,Man-in-the-Middle,Banking,59.67,747418,20.0,38.0029,-18.0029
+USA,2020,Phishing,Education,60.57,275819,69.0,33.7894,35.2106
+Russia,2020,DDoS,Education,60.94,798113,23.0,36.5731,-13.5731
+Brazil,2020,SQL Injection,Education,62.72,827349,68.0,37.898,30.102
+UK,2020,Man-in-the-Middle,Telecommunications,63.35,294447,54.0,36.6924,17.3076
+Russia,2020,Man-in-the-Middle,Telecommunications,64.39,803579,1.0,36.4856,-35.4856
+France,2020,Ransomware,Education,66.04,881755,10.0,35.0715,-25.0715
+UK,2020,SQL Injection,Healthcare,67.9,2233,45.0,37.7195,7.2805
+Japan,2020,SQL Injection,Banking,70.14,575065,61.0,34.1913,26.8087
+India,2020,Ransomware,IT,70.91,403494,3.0,37.7144,-34.7144
+Brazil,2020,Man-in-the-Middle,Education,71.35,154966,19.0,37.9094,-18.9094
+Japan,2020,Phishing,Banking,73.04,512431,44.0,34.7491,9.2509
+USA,2020,Phishing,Banking,74.51,332766,53.0,35.8535,17.1465
+France,2020,Malware,Healthcare,76.42,50468,64.0,35.4482,28.5518
+Japan,2020,Malware,IT,80.49,661385,26.0,36.7284,-10.7284
+France,2020,Ransomware,Government,81.53,694660,29.0,37.0471,-8.0471
+UK,2020,Ransomware,IT,83.29,217598,24.0,39.8417,-15.8417
+UK,2020,SQL Injection,IT,87.48,53147,9.0,37.3913,-28.3913
+USA,2020,Man-in-the-Middle,IT,87.88,731495,3.0,35.8709,-32.8709
+China,2020,SQL Injection,IT,89.38,923489,66.0,37.836,28.164
+Japan,2020,Phishing,Telecommunications,91.52,846884,42.0,34.7753,7.2247
+France,2020,Malware,Healthcare,92.29,267554,45.0,33.8242,11.1758
+Australia,2020,DDoS,Banking,92.95,942890,19.0,35.4933,-16.4933
+France,2020,Phishing,Government,94.44,209658,11.0,38.7364,-27.7364
+France,2020,SQL Injection,Education,94.63,481180,10.0,36.168,-26.168
+China,2020,Malware,IT,95.17,884741,30.0,36.0394,-6.0394
+Germany,2020,SQL Injection,Healthcare,96.31,591828,16.0,36.1306,-20.1306
+France,2020,Ransomware,Retail,97.37,467137,14.0,34.6025,-20.6025
+Australia,2020,Ransomware,Banking,97.48,647303,37.0,33.5118,3.4882
+China,2020,Ransomware,Banking,98.05,168617,16.0,37.3125,-21.3125
+Japan,2020,Malware,Telecommunications,98.14,710142,56.0,32.0134,23.9866
+India,2020,SQL Injection,Government,99.72,604113,7.0,33.9197,-26.9197
+Russia,2021,Malware,Education,0.54,869574,16.0,37.715,-21.715
+UK,2021,SQL Injection,Telecommunications,1.47,204624,33.0,37.6483,-4.6483
+UK,2021,Malware,Telecommunications,3.17,570243,51.0,37.483,13.517
+Australia,2021,SQL Injection,IT,4.52,971908,16.0,36.8242,-20.8242
+USA,2021,Phishing,Education,6.01,176772,6.0,37.1778,-31.1778
+Australia,2021,SQL Injection,Telecommunications,10.28,994468,8.0,39.7455,-31.7455
+Germany,2021,Man-in-the-Middle,Banking,14.45,292854,14.0,36.3192,-22.3192
+Brazil,2021,DDoS,Banking,14.72,126781,32.0,37.6034,-5.6034
+USA,2021,Man-in-the-Middle,Education,15.92,945793,32.0,35.967,-3.967
+Australia,2021,Man-in-the-Middle,Healthcare,17.62,687020,48.0,34.2282,13.7718
+Australia,2021,SQL Injection,Telecommunications,22.51,71557,47.0,37.1192,9.8808
+USA,2021,Phishing,IT,29.02,555756,21.0,35.0792,-14.0792
+China,2021,Man-in-the-Middle,Banking,33.3,935265,20.0,37.2014,-17.2014
+Russia,2021,Ransomware,Banking,34.92,501490,44.0,36.1179,7.8821
+Japan,2021,DDoS,Government,35.46,937562,10.0,37.082,-27.082
+Russia,2021,DDoS,Retail,37.47,476758,19.0,36.8151,-17.8151
+Russia,2021,Man-in-the-Middle,Retail,39.73,80069,8.0,40.1394,-32.1394
+China,2021,Malware,Education,42.26,615849,44.0,36.1118,7.8882
+USA,2021,Man-in-the-Middle,Telecommunications,42.29,817386,8.0,33.5859,-25.5859
+France,2021,Man-in-the-Middle,Government,44.03,60431,59.0,38.207,20.793
+China,2021,Ransomware,Telecommunications,44.84,16106,29.0,33.5948,-4.5948
+Russia,2021,DDoS,Banking,45.6,759356,1.0,36.7161,-35.7161
+France,2021,Phishing,Retail,45.74,754278,46.0,35.9625,10.0375
+UK,2021,SQL Injection,Healthcare,52.23,449333,39.0,37.9701,1.0299
+India,2021,Man-in-the-Middle,IT,53.49,582718,20.0,37.9968,-17.9968
+Germany,2021,SQL Injection,Education,55.5,693497,56.0,38.1724,17.8276
+India,2021,Malware,Government,57.91,769222,32.0,37.217,-5.217
+UK,2021,Malware,Banking,60.14,191427,56.0,36.8771,19.1229
+UK,2021,Malware,Government,64.28,643714,25.0,37.6379,-12.6379
+Germany,2021,Ransomware,Healthcare,66.84,242893,50.0,36.8888,13.1112
+USA,2021,Phishing,Healthcare,70.03,248437,70.0,35.4166,34.5834
+India,2021,Man-in-the-Middle,Telecommunications,71.64,416077,39.0,36.21,2.79
+UK,2021,Man-in-the-Middle,Banking,71.88,757595,40.0,37.2634,2.7366
+UK,2021,Man-in-the-Middle,IT,72.57,477493,16.0,39.3123,-23.3123
+Germany,2021,DDoS,IT,73.5,806210,5.0,37.6165,-32.6165
+Australia,2021,Malware,Healthcare,74.61,357205,21.0,36.7292,-15.7292
+France,2021,Ransomware,Retail,76.83,189999,57.0,37.1916,19.8084
+Japan,2021,Malware,Healthcare,77.84,783976,62.0,33.9783,28.0217
+Russia,2021,Phishing,Banking,78.45,56333,8.0,35.7887,-27.7887
+Russia,2021,DDoS,Retail,79.06,368255,17.0,38.3921,-21.3921
+UK,2021,DDoS,Education,80.26,276593,36.0,36.8487,-0.8487
+China,2021,Phishing,Government,84.49,884734,6.0,34.625,-28.625
+Australia,2021,Malware,Telecommunications,84.68,708291,54.0,36.2959,17.7041
+China,2021,Man-in-the-Middle,Banking,85.26,812101,52.0,39.2389,12.7611
+India,2021,Ransomware,Education,86.73,534013,49.0,35.6731,13.3269
+Russia,2021,Ransomware,Education,86.8,852965,39.0,35.4876,3.5124
+USA,2021,DDoS,Education,87.32,315915,52.0,36.1435,15.8565
+Australia,2021,Ransomware,Telecommunications,88.2,576302,2.0,36.4974,-34.4974
+France,2021,Man-in-the-Middle,Telecommunications,90.99,483484,2.0,36.9135,-34.9135
+USA,2021,Phishing,Retail,95.86,671335,62.0,34.8323,27.1677
+Brazil,2021,DDoS,Banking,96.23,649383,59.0,34.7004,24.2996
+UK,2021,DDoS,Banking,97.03,100486,31.0,35.9673,-4.9673
+France,2021,Ransomware,IT,99.77,533151,43.0,33.7491,9.2509
+India,2022,SQL Injection,Education,0.83,977791,15.0,35.7995,-20.7995
+Russia,2022,SQL Injection,Telecommunications,1.99,652682,46.0,36.0557,9.9443
+Australia,2022,DDoS,Telecommunications,4.81,683733,65.0,38.1716,26.8284
+Russia,2022,SQL Injection,Retail,6.61,351048,57.0,38.5547,18.4453
+Germany,2022,Ransomware,Education,7.65,643306,50.0,35.7117,14.2883
+Japan,2022,DDoS,Education,12.61,756722,15.0,37.2124,-22.2124
+India,2022,Malware,Retail,13.88,813217,71.0,38.2071,32.7929
+China,2022,DDoS,Education,18.49,20680,29.0,35.7426,-6.7426
+Germany,2022,Ransomware,Retail,19.47,496271,20.0,37.453,-17.453
+UK,2022,DDoS,Education,21.01,452432,8.0,36.6484,-28.6484
+Russia,2022,Man-in-the-Middle,Healthcare,27.82,182378,10.0,36.8986,-26.8986
+Australia,2022,Malware,Retail,32.26,824433,60.0,37.4004,22.5996
+India,2022,Man-in-the-Middle,Banking,32.47,947465,69.0,37.8444,31.1556
+USA,2022,DDoS,Retail,32.53,235314,62.0,36.8812,25.1188
+India,2022,SQL Injection,IT,32.73,153154,37.0,37.283,-0.283
+USA,2022,Ransomware,Government,33.71,135105,48.0,37.636,10.364
+Japan,2022,SQL Injection,Banking,34.03,700439,41.0,35.2956,5.7044
+USA,2022,Ransomware,Banking,34.58,322611,16.0,36.6065,-20.6065
+China,2022,Malware,Education,35.05,596468,29.0,37.8278,-8.8278
+Japan,2022,Phishing,Telecommunications,35.54,604908,25.0,36.2995,-11.2995
+Japan,2022,Man-in-the-Middle,Retail,37.15,241151,56.0,37.4139,18.5861
+India,2022,DDoS,IT,38.69,333967,26.0,36.641,-10.641
+India,2022,Malware,Healthcare,38.89,400752,36.0,38.9233,-2.9233
+UK,2022,Malware,Retail,39.55,337363,2.0,38.6825,-36.6825
+UK,2022,DDoS,Government,50.04,841198,41.0,37.823,3.177
+USA,2022,Ransomware,IT,50.4,34584,43.0,36.4758,6.5242
+Germany,2022,SQL Injection,Banking,52.91,619669,19.0,38.2115,-19.2115
+France,2022,Ransomware,Banking,54.47,604250,63.0,36.2734,26.7266
+Brazil,2022,SQL Injection,Healthcare,56.63,242677,21.0,35.5968,-14.5968
+Russia,2022,SQL Injection,Banking,60.25,662517,40.0,34.4319,5.5681
+Germany,2022,Ransomware,Healthcare,61.99,496292,21.0,35.8365,-14.8365
+Germany,2022,Man-in-the-Middle,Telecommunications,62.83,828280,62.0,37.508,24.492
+Japan,2022,SQL Injection,IT,66.66,749545,30.0,37.6636,-7.6636
+Australia,2022,Malware,Healthcare,67.16,566437,63.0,38.014,24.986
+Germany,2022,SQL Injection,IT,68.63,294981,3.0,39.3439,-36.3439
+Japan,2022,Malware,IT,71.15,840225,70.0,37.9244,32.0756
+USA,2022,Ransomware,Government,71.33,257989,68.0,37.2086,30.7914
+China,2022,Phishing,Telecommunications,72.06,459296,13.0,35.4259,-22.4259
+Australia,2022,Malware,Banking,74.77,151599,18.0,37.5685,-19.5685
+Brazil,2022,Phishing,Banking,75.01,771434,38.0,36.3249,1.6751
+Brazil,2022,Phishing,Education,75.42,761590,45.0,35.9971,9.0029
+France,2022,Phishing,IT,78.2,666996,59.0,35.1592,23.8408
+Australia,2022,Phishing,Healthcare,80.11,537530,14.0,36.8395,-22.8395
+China,2022,DDoS,Government,80.76,346279,59.0,39.0774,19.9226
+Australia,2022,Man-in-the-Middle,Healthcare,81.31,707365,38.0,35.582,2.418
+UK,2022,Ransomware,Government,85.43,688150,58.0,35.598,22.402
+China,2022,DDoS,IT,88.61,777010,34.0,37.3211,-3.3211
+Australia,2022,Ransomware,Government,92.07,819812,63.0,37.6105,25.3895
+Germany,2022,Malware,Telecommunications,92.53,727509,67.0,34.0103,32.9897
+Russia,2022,Man-in-the-Middle,Education,96.44,106169,28.0,38.1951,-10.1951
+China,2022,Malware,Education,96.72,194617,31.0,37.9512,-6.9512
+Japan,2022,Malware,Education,97.32,742866,61.0,35.2535,25.7465
+Australia,2023,Malware,Telecommunications,1.51,954902,55.0,38.5056,16.4944
+China,2023,SQL Injection,Education,4.18,715127,60.0,34.5874,25.4126
+USA,2023,Phishing,Telecommunications,6.18,591348,55.0,34.1109,20.8891
+Brazil,2023,SQL Injection,Healthcare,7.33,486146,12.0,36.0318,-24.0318
+India,2023,Ransomware,Education,9.32,182887,51.0,38.076,12.924
+France,2023,Man-in-the-Middle,Retail,9.43,565002,72.0,38.4189,33.5811
+France,2023,Malware,Banking,9.99,116840,51.0,37.1845,13.8155
+China,2023,Man-in-the-Middle,Education,10.55,12970,32.0,35.071,-3.071
+Germany,2023,Phishing,Government,12.62,68551,55.0,35.6056,19.3944
+India,2023,Man-in-the-Middle,Retail,12.96,254903,4.0,37.733,-33.733
+France,2023,Phishing,IT,15.49,138639,14.0,37.158,-23.158
+Japan,2023,Man-in-the-Middle,Education,16.42,60322,22.0,38.8112,-16.8112
+Japan,2023,DDoS,Government,17.69,799380,57.0,37.1435,19.8565
+France,2023,Ransomware,Education,17.72,261661,11.0,37.5218,-26.5218
+Brazil,2023,Man-in-the-Middle,Banking,20.15,376174,43.0,36.5249,6.4751
+UK,2023,Man-in-the-Middle,IT,20.35,140061,42.0,36.4016,5.5984
+UK,2023,Malware,Education,23.86,552241,50.0,34.4483,15.5517
+Germany,2023,Ransomware,Healthcare,28.18,707214,11.0,33.5779,-22.5779
+Japan,2023,Ransomware,Retail,28.77,983880,54.0,38.3102,15.6898
+USA,2023,Phishing,IT,29.42,957199,49.0,38.0685,10.9315
+France,2023,SQL Injection,Government,29.63,662667,30.0,36.9294,-6.9294
+Australia,2023,DDoS,IT,31.48,771547,5.0,36.1214,-31.1214
+Russia,2023,DDoS,Banking,33.51,615332,65.0,35.6224,29.3776
+India,2023,DDoS,Government,34.46,580270,35.0,37.4194,-2.4194
+UK,2023,Malware,Education,34.66,941720,71.0,34.4874,36.5126
+China,2023,Man-in-the-Middle,Telecommunications,37.73,849834,56.0,36.3806,19.6194
+Germany,2023,Phishing,Banking,39.53,339645,2.0,36.4089,-34.4089
+Russia,2023,Ransomware,Banking,42.14,222293,38.0,38.1306,-0.1306
+China,2023,Phishing,Government,43.49,27694,30.0,35.7703,-5.7703
+China,2023,Malware,IT,43.51,684108,24.0,33.8331,-9.8331
+Japan,2023,Phishing,Healthcare,48.25,3395,58.0,34.31,23.69
+Germany,2023,DDoS,Telecommunications,51.49,642699,51.0,35.7276,15.2724
+Russia,2023,SQL Injection,IT,52.35,743325,9.0,36.0449,-27.0449
+India,2023,Phishing,Retail,53.07,589348,4.0,39.071,-35.071
+China,2023,SQL Injection,IT,53.21,620822,21.0,35.5188,-14.5188
+USA,2023,DDoS,Banking,53.59,750875,30.0,33.6299,-3.6299
+Russia,2023,Ransomware,Banking,54.09,514319,37.0,35.1767,1.8233
+France,2023,Ransomware,Education,54.26,21699,32.0,35.1453,-3.1453
+China,2023,SQL Injection,Telecommunications,54.41,215401,50.0,38.2208,11.7792
+UK,2023,DDoS,Government,55.28,339144,26.0,38.306,-12.306
+UK,2023,Malware,Banking,55.34,259176,3.0,38.6699,-35.6699
+Australia,2023,Malware,Government,55.72,14483,36.0,35.2485,0.7515
+Brazil,2023,SQL Injection,Retail,56.76,774426,21.0,36.5137,-15.5137
+France,2023,DDoS,Healthcare,58.37,599797,35.0,36.2096,-1.2096
+China,2023,Ransomware,Healthcare,62.21,534686,44.0,38.4407,5.5593
+France,2023,Ransomware,Government,63.45,90678,22.0,38.4606,-16.4606
+USA,2023,Malware,Banking,66.06,189116,53.0,37.2878,15.7122
+Japan,2023,Malware,Telecommunications,67.77,871255,24.0,37.0366,-13.0366
+UK,2023,DDoS,Healthcare,69.14,685927,58.0,37.6598,20.3402
+Japan,2023,SQL Injection,Government,69.61,391049,35.0,37.7624,-2.7624
+India,2023,Malware,Healthcare,70.36,992014,62.0,37.6358,24.3642
+Brazil,2023,Phishing,Banking,71.86,151590,30.0,38.6347,-8.6347
+Australia,2023,DDoS,Government,76.25,900661,64.0,40.5061,23.4939
+Russia,2023,DDoS,Banking,78.71,315219,30.0,36.7716,-6.7716
+UK,2023,SQL Injection,Telecommunications,78.9,716114,63.0,36.6824,26.3176
+China,2023,Malware,Telecommunications,80.1,237658,26.0,37.5442,-11.5442
+India,2023,SQL Injection,Telecommunications,80.14,241449,27.0,38.7814,-11.7814
+Germany,2023,Man-in-the-Middle,Banking,80.97,289046,41.0,35.7008,5.2992
+Japan,2023,Man-in-the-Middle,Government,81.57,738014,24.0,38.8796,-14.8796
+UK,2023,DDoS,Telecommunications,81.91,397687,65.0,39.0644,25.9356
+UK,2023,Malware,IT,82.38,386972,56.0,37.5179,18.4821
+France,2023,Ransomware,Telecommunications,84.79,263566,64.0,36.1812,27.8188
+France,2023,Malware,Healthcare,85.28,762282,11.0,36.0553,-25.0553
+UK,2023,Ransomware,IT,86.23,82321,47.0,36.7261,10.2739
+Russia,2023,DDoS,IT,86.81,717258,16.0,35.598,-19.598
+France,2023,Man-in-the-Middle,Education,87.39,307155,28.0,36.1489,-8.1489
+France,2023,Ransomware,IT,87.45,296050,30.0,38.0545,-8.0545
+India,2023,Phishing,IT,88.71,337377,23.0,36.8166,-13.8166
+USA,2023,Man-in-the-Middle,IT,88.81,762605,53.0,36.2268,16.7732
+India,2023,Malware,Education,95.97,629490,38.0,37.0787,0.9213
+Russia,2023,DDoS,Telecommunications,96.61,956064,45.0,35.4998,9.5002
+Russia,2023,Malware,IT,98.07,608695,31.0,34.9047,-3.9047
+Australia,2023,SQL Injection,Healthcare,99.19,538688,36.0,35.8292,0.1708
+Germany,2024,Phishing,IT,2.85,951767,10.0,36.9663,-26.9663
+Australia,2024,Ransomware,Government,3.37,414907,42.0,37.0104,4.9896
+Brazil,2024,Ransomware,Healthcare,6.67,553944,64.0,37.2212,26.7788
+China,2024,DDoS,Healthcare,7.31,972407,51.0,35.0618,15.9382
+China,2024,Ransomware,Telecommunications,7.32,179156,34.0,37.4196,-3.4196
+UK,2024,Ransomware,Telecommunications,9.74,118118,17.0,37.8284,-20.8284
+France,2024,SQL Injection,Government,9.91,248359,58.0,35.4465,22.5535
+China,2024,Phishing,Retail,11.72,311675,18.0,35.7392,-17.7392
+China,2024,DDoS,IT,13.77,928751,26.0,37.7428,-11.7428
+India,2024,Malware,Banking,14.01,141437,10.0,35.3877,-25.3877
+Brazil,2024,SQL Injection,Education,14.69,783795,43.0,36.6949,6.3051
+Australia,2024,Phishing,Banking,14.97,214740,57.0,36.7343,20.2657
+USA,2024,DDoS,Retail,15.34,1068,3.0,34.7818,-31.7818
+USA,2024,Ransomware,IT,16.61,912183,44.0,34.8569,9.1431
+Russia,2024,DDoS,Education,19.5,325634,5.0,34.9889,-29.9889
+Germany,2024,Phishing,Government,19.52,50054,24.0,37.9992,-13.9992
+Russia,2024,Phishing,Telecommunications,21.22,446028,37.0,34.5976,2.4024
+Germany,2024,Phishing,Government,22.46,499142,70.0,38.1148,31.8852
+Brazil,2024,DDoS,Retail,25.17,658226,52.0,37.2811,14.7189
+Brazil,2024,Man-in-the-Middle,Healthcare,26.92,695427,28.0,33.6736,-5.6736
+Australia,2024,DDoS,Retail,28.16,411083,30.0,35.8281,-5.8281
+Brazil,2024,Phishing,IT,28.78,793783,17.0,35.7042,-18.7042
+UK,2024,Phishing,Government,30.68,393201,3.0,37.1481,-34.1481
+India,2024,Ransomware,IT,33.66,131900,21.0,37.508,-16.508
+Brazil,2024,Man-in-the-Middle,Education,34.42,960625,48.0,33.9577,14.0423
+China,2024,Malware,Retail,34.49,897277,55.0,37.7977,17.2023
+Australia,2024,DDoS,Telecommunications,36.49,35041,14.0,35.4847,-21.4847
+Brazil,2024,SQL Injection,Healthcare,41.05,175957,69.0,35.1149,33.8851
+Japan,2024,Man-in-the-Middle,Education,46.39,662101,7.0,37.503,-30.503
+USA,2024,Ransomware,Retail,46.59,227390,40.0,36.0053,3.9947
+Germany,2024,Malware,IT,47.13,471379,67.0,37.629,29.371
+Japan,2024,Ransomware,Retail,47.44,696953,54.0,35.0187,18.9813
+France,2024,SQL Injection,Telecommunications,48.77,336356,2.0,36.5478,-34.5478
+Germany,2024,Malware,IT,51.66,570159,18.0,38.207,-20.207
+France,2024,Ransomware,Government,52.85,927623,29.0,34.8322,-5.8322
+China,2024,DDoS,Healthcare,53.53,371685,34.0,37.2679,-3.2679
+China,2024,Man-in-the-Middle,Telecommunications,53.59,4913,61.0,36.4889,24.5111
+UK,2024,SQL Injection,Telecommunications,54.1,715395,60.0,36.498,23.502
+Russia,2024,DDoS,Telecommunications,55.05,363906,31.0,36.2062,-5.2062
+Brazil,2024,Ransomware,Government,57.7,691990,41.0,37.1939,3.8061
+China,2024,SQL Injection,Banking,58.32,777684,31.0,37.7935,-6.7935
+Brazil,2024,Ransomware,Healthcare,60.13,887531,51.0,36.6902,14.3098
+USA,2024,Phishing,Telecommunications,64.67,996651,69.0,37.3997,31.6003
+Japan,2024,SQL Injection,Banking,67.37,521384,32.0,37.5923,-5.5923
+Germany,2024,DDoS,Telecommunications,67.47,337890,35.0,36.5476,-1.5476
+UK,2024,DDoS,Government,68.83,60379,32.0,38.4486,-6.4486
+USA,2024,Malware,Healthcare,69.46,187312,58.0,35.0957,22.9043
+Australia,2024,Phishing,Retail,73.43,897569,66.0,37.372,28.628
+Australia,2024,Phishing,Education,74.75,109907,5.0,35.7897,-30.7897
+Brazil,2024,DDoS,Healthcare,76.39,782425,13.0,35.7113,-22.7113
+Australia,2024,DDoS,Healthcare,77.04,8517,4.0,37.2064,-33.2064
+India,2024,Ransomware,Government,79.3,998833,21.0,35.0125,-14.0125
+UK,2024,DDoS,Healthcare,82.87,276634,38.0,38.8092,-0.8092
+Brazil,2024,Malware,IT,83.09,650093,58.0,36.9983,21.0017
+Australia,2024,Malware,Telecommunications,83.69,824298,4.0,36.7496,-32.7496
+India,2024,DDoS,Telecommunications,85.02,700440,23.0,35.263,-12.263
+Australia,2024,Ransomware,Education,85.86,461012,38.0,36.8656,1.1344
+France,2024,DDoS,Government,85.88,546017,14.0,39.9968,-25.9968
+UK,2024,Man-in-the-Middle,Government,86.74,658712,25.0,36.5299,-11.5299
+USA,2024,Phishing,IT,87.42,979700,49.0,33.8633,15.1367
+Brazil,2024,Phishing,Retail,88.47,842945,67.0,33.7326,33.2674
+Germany,2024,Phishing,Government,90.21,510657,62.0,36.903,25.097
+India,2024,Malware,IT,92.08,430701,54.0,37.3409,16.6591
+India,2024,Phishing,Retail,92.48,32067,19.0,34.703,-15.703
+Australia,2024,Phishing,IT,92.48,215376,18.0,35.2152,-17.2152
+Russia,2024,Man-in-the-Middle,Banking,93.13,414192,34.0,35.4199,-1.4199
+Germany,2024,Malware,Government,93.49,702688,39.0,36.4718,2.5282
+Russia,2024,Ransomware,Healthcare,98.25,877571,19.0,35.3517,-16.3517
+Australia,2024,SQL Injection,IT,98.31,694333,48.0,33.4675,14.5325
+France,2024,Ransomware,Retail,99.03,349008,20.0,33.6638,-13.6638
