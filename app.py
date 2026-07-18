@@ -390,19 +390,66 @@ with risk_tab:
             .sort_values("cluster")
         )
 
-        top_attack_df = (
-            segmented_filtered.groupby(
-                ["cluster", "risk_profile", "attack_type"],
+        attack_count_df = (
+            segmented_filtered
+            .groupby(
+                [
+                    "cluster",
+                    "risk_profile",
+                    "attack_type",
+                ],
                 as_index=False,
             )
             .size()
-            .rename(columns={"size": "top_attack_count"})
-            .sort_values(
-                ["cluster", "top_attack_count", "attack_type"],
-                ascending=[True, False, True],
+            .rename(
+                columns={
+                    "size": "attack_count"
+                }
             )
-            .drop_duplicates(["cluster", "risk_profile"])
-            .rename(columns={"attack_type": "common_attack_type"})
+        )
+
+        attack_count_df[
+            "maximum_attack_count"
+        ] = (
+            attack_count_df
+            .groupby(
+                [
+                    "cluster",
+                    "risk_profile",
+                ]
+            )["attack_count"]
+            .transform("max")
+        )
+
+        top_attack_df = (
+            attack_count_df[
+                attack_count_df[
+                    "attack_count"
+                ]
+                ==
+                attack_count_df[
+                    "maximum_attack_count"
+                ]
+            ]
+            .groupby(
+                [
+                    "cluster",
+                    "risk_profile",
+                ],
+                as_index=False,
+            )
+            .agg(
+                common_attack_type=(
+                    "attack_type",
+                    lambda values: " / ".join(
+                        sorted(values)
+                    ),
+                ),
+                top_attack_count=(
+                    "attack_count",
+                    "max",
+                ),
+            )
         )
 
         risk_aggregate_df = risk_aggregate_df.merge(
